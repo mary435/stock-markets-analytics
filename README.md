@@ -1,2 +1,3 @@
-# stock-markets-analytics
-Analytics in Stock Markets
+# Analytics in Stock Markets
+
+Module 1: Introduction and Data Sources
