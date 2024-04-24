@@ -12,4 +12,4 @@
 * Essential Principles for API Selection
   * Considerations for selecting the right API for your data needs.
   * When it becomes necessary to consider payment options in the API selection process.
-* [Homework](01/hw_01.ipynb)
+* [Homework](/01/hw_01.ipynb)
