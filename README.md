@@ -12,7 +12,6 @@
 * Essential Principles for API Selection
   * Considerations for selecting the right API for your data needs.
   * When it becomes necessary to consider payment options in the API selection process.
-<<<<<<< HEAD
 * [Homework](01/HW_01.ipynb)
 
 
@@ -34,6 +33,3 @@
   * Conduct a comprehensive descriptive analysis of the dataset.
   * Explore correlations within the data to uncover meaningful insights.
 * Homework
-=======
-* [Homework](/01/HW_01.ipynb)
->>>>>>> 170067262de9fdebaa0eb9db156034415caeb7f5
