@@ -32,4 +32,4 @@
 * Thorough Descriptive Analysis
   * Conduct a comprehensive descriptive analysis of the dataset.
   * Explore correlations within the data to uncover meaningful insights.
-* Homework
+* [Homework](02/hw_02.ipynb)
