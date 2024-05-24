@@ -43,4 +43,4 @@
 * Regression techniques for understanding data relationships.
 * Binary classification to determine growth direction.
 * [Optional] Example of neural networks in analytical modelling.
-* Homework
+* [Homework](03/hw_03.ipynb)
