@@ -44,3 +44,22 @@
 * Binary classification to determine growth direction.
 * [Optional] Example of neural networks in analytical modelling.
 * [Homework](03/hw_03.ipynb)
+
+
+### Module 4: Trading Strategy and Simulation
+
+Moving Beyond Prediction into the realm of Trading Strategy and Simulation:
+
+* [Optional] Explore screenshots of trading apps, guiding you on how to start—from downloading an app to placing a trade.
+* Uncover key features of trading strategies, including considerations like trading fees, risk management, combining predictions, and timing of market entry.
+* Delve into various strategy examples:
+* Single stock investment for a long-term approach.
+* Diversified portfolio optimisation for long investments in multiple stocks.
+* Market-neutral strategies, involving both long and short positions based on predictions.
+* Mean reversion strategy, driven by events.
+* Vertical stocks covering and pairs trading.
+* Exploration of "Penny" stocks and dividend strategies.
+* [Maybe - Advanced] Basic options strategy.
+* Simulate the financial results based on predictions and the chosen strategy.
+* Homework
+
